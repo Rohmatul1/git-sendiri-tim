@@ -24,6 +24,9 @@ pada remote repository.
 # Cara Kerja GIT
 
 Tiga bagian utama dari sebuah projek Git: direktori Git, direktori kerja, dan staging area.
+
+![On Demand](https://github.com/Rohmatul1/git-sendiri-tim/blob/master/1.png)
+
 * Direktori Git adalah dimana Git menyimpan metadata dan database objek untuk projek anda. 
 Ini adalah bahagian terpenting dari Git, dan inilah yang disalin ketika anda melakukan kloning 
 sebuah repository dari komputer lain.
@@ -72,3 +75,4 @@ git push origin firstFeatureFromChipulaja
 
 Sumber :
 * https://gist.github.com/chipulaja/a510ec370e7535797126ccd27d7146de
+* https://git-scm.com/book/id/v1/Memulai-Git-Dasar-Git
